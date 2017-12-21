@@ -1,0 +1,10 @@
+{
+  "name": "lambda-tracker-protection",
+  "version": "0.0.1",
+  "description": "An AWS Lambda function to strip incoming emails of their tracking information",
+  "main": "src/index.js",
+  "repository": "https://github.com/masqt/lambda-tracker-protection.git",
+  "author": "sdob@kremlin.masqt.com",
+  "license": "GPL v.3",
+  "private": false
+}
